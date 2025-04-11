@@ -1,5 +1,5 @@
 // 全局变量
-let currentApiSource = localStorage.getItem('currentApiSource') || 'heimuer';
+let currentApiSource = localStorage.getItem('currentApiSource') || 'aggregated';
 let customApiUrl = localStorage.getItem('customApiUrl') || '';
 // 添加当前播放的集数索引
 let currentEpisodeIndex = 0;
